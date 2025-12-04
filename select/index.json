@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "神様の言うとーり！",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-04T14:01:28.157112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "神様の言うとーり！",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/01_神様の言うとーり!_≠ME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神様の言うとーり!",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_神様の言うとーり!_≠ME.txt"
+    }
+  ]
+}
